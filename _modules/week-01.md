@@ -3,15 +3,16 @@ title: Week 1
 ---
 
 
-Jan 24
+Sep. 05
 : **LEC 01**{: .label .label-gray } Introduction, Loss Functions, Simple Linear Regression
-  : [PDF](lectures/01-intro/Lec01.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/01-intro/Lec01-marked.pdf)
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 : **Demo 01**{: .label .label-green } Numpy, arrays, and plotting
-  : [Link](https://drive.google.com/file/d/1aQl3FDkyKpipkGTowERqYLulUOPcQ6ee/view?usp=sharing) &nbsp;&nbsp;
+  : [Link](#) &nbsp;&nbsp;
 : **Demo 02**{: .label .label-green } Simple regression example
-  : [Link](https://drive.google.com/file/d/1uQ3CmJk24y8SJPfs9I3hHgwwqIGWEI9T/view?usp=sharing) &nbsp;&nbsp;
+  : [Link](#) &nbsp;&nbsp;
 
+{% comment %}
 Jan 25
 : **Lab 01 Release**{: .label .label-yellow } 
   : [Link](https://colab.research.google.com/drive/1b3sS-4qqPBm5yB-naN8angPFV9B1yebS?usp=sharing) &nbsp;&nbsp;
@@ -28,3 +29,6 @@ Reading
   : [Raw Markdown](https://www.chrismusco.com/machinelearning2023_grad/gradient_practice.md)
 : Additional Reading
   : Ch. 3.1, 3.2 in An Introduction to Statistical Learning
+
+
+  {% endcomment %}
