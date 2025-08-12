@@ -32,11 +32,11 @@ permalink: pretty
 aux_links:
   Akbar Rafiey:
     - 'https://akbarrafiey.github.io'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/1079943'
+  Ed Discussion:
+    - 'https://edstem.org/us/courses/81572/discussion'
   Previous Teaching:
-<<<<<<< HEAD
-    - 'https://akbarrafiey.github.io/ML6923/'
-=======
->>>>>>> b1e2690 (built and first week)
     - 'https://akbarrafiey.github.io/sp25-ml6923/'
   #Just the Class on GitHub:
    # - 'https://github.com/kevinlin1/just-the-class'
