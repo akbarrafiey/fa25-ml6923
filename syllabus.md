@@ -203,8 +203,8 @@ the class. If something like that should arise, please let us know ASAP!
 There will be one midterm exam and one final exam:
 
 
-- **Midterm**:  March 14 
-- **Final Exam**: TBD
+- **Midterm**:  October 24 
+- **Final Exam**: December 19
 
 The midterm exam will be held in-person during the regularly-scheduled lecture times. 
 Make sure you are available on those day. If there is any issue, let me know ASAP. 
