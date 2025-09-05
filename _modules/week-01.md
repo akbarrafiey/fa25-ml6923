@@ -5,12 +5,12 @@ title: Week 1
 
 Sep. 05
 : **LEC 01**{: .label .label-gray } Introduction, Loss Functions, Simple Linear Regression
-  : [PDF](#) &nbsp;&nbsp;
+  : [PDF](lectures/01-intro/Lec01.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 : **Demo 01**{: .label .label-green } Numpy, arrays, and plotting
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1owceUUGn_zwMaFszOcA627Ft3yWGOFW0/view?usp=sharing) &nbsp;&nbsp;
 : **Demo 02**{: .label .label-green } Simple regression example
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1CFhAnFC6IKKgcMzOqUf7gPRPFYessGhs/view?usp=sharing) &nbsp;&nbsp;
 
 {% comment %}
 Jan 25
