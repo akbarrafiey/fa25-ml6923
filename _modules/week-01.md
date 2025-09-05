@@ -12,11 +12,11 @@ Sep. 05
 : **Demo 02**{: .label .label-green } Simple regression example
   : [Link](https://drive.google.com/file/d/1CFhAnFC6IKKgcMzOqUf7gPRPFYessGhs/view?usp=sharing) &nbsp;&nbsp;
 
-{% comment %}
-Jan 25
+
+Sep. 06
 : **Lab 01 Release**{: .label .label-yellow } 
-  : [Link](https://colab.research.google.com/drive/1b3sS-4qqPBm5yB-naN8angPFV9B1yebS?usp=sharing) &nbsp;&nbsp;
-  : **Due: Feb 05, 11:59pm**{: .label .label-yellow }
+  : [Link](https://drive.google.com/file/d/1GYSX2Jx3clkpRyvKuizfw1mZKIzBVFRV/view?usp=sharing) &nbsp;&nbsp;
+  : **Due: Sep 17, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Probability Review 
@@ -31,4 +31,3 @@ Reading
   : Ch. 3.1, 3.2 in An Introduction to Statistical Learning
 
 
-  {% endcomment %}
