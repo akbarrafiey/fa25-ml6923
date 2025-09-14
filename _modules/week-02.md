@@ -5,7 +5,7 @@ title: Week 2
 Sep 12
 : **LEC 02**{: .label .label-gray } Multiple Linear Regression, Polynimial Regression, Model Selection
   : [PDF](lectures/02-multiple-regression/Lec02.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/02-multiple-regression/Lec02-marked.pdf)
 
 
 : **Demo 03**{: .label .label-green } Multiple Regression 
@@ -15,7 +15,7 @@ Sep 12
 
 Sep 14
 : **Lab 02 Release**{: .label .label-yellow } 
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/17MDqusZsa2dC-dJw96PovVj2X-UZKehc/view?usp=sharing) &nbsp;&nbsp;
   : **Due: Sep 24, 11:59pm**{: .label .label-yellow }
 
 Reading
