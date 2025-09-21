@@ -6,11 +6,11 @@ title: Week 3
 Sep 19
 : **LEC 03**{: .label .label-gray } Regularization, Naive Bayes
   : [PDF](lectures/03-naive-bayes/Lec03.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/03-naive-bayes/Lec03-marked.pdf)
 
 Sep 21
 : **HW 01 posted**{: .label .label-red }
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](homeworks/HW01/HW01.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
   : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
 : **Due: Oct 02, 11:59pm**{: .label .label-red }
