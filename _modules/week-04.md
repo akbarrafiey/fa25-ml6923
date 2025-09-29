@@ -10,7 +10,7 @@ Sep 25
 Sep 26
 : **LEC 04**{: .label .label-gray } Bayesian ML and Text Generation
   : [PDF](lectures/04-more-naive-bayes/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/04-more-naive-bayes/Lec04-marked.pdf)
 
 
 Reading
