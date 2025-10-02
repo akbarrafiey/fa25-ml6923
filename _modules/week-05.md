@@ -2,20 +2,20 @@
 title: Week 5
 ---
 
-Feb 20
+Oct 2
 : **HW 02 posted**{: .label .label-red }
   : [PDF](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
   : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
-: **Due: March 05, 11:59pm**{: .label .label-red }
+: **Due: Oct 15, 11:59pm**{: .label .label-red }
 
 
-Feb 21
+Oct 03
 : **LEC 05**{: .label .label-gray } Logistic Regression, Optimization
   : [PDF](lectures/05-classification/Lec05.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/05-classification/Lec05-marked.pdf)
+  : [Marked-PDF]()
 : **Demo 05**{: .label .label-green } Logistic regression
-  : [Link](https://drive.google.com/file/d/1_50qPyHMDglWJ-xNwGlX6BUh5Kh3Z8jb/view?usp=sharing) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/15zranQK-tdqWvloui6ojvS0blW5R3W3Q/view?usp=sharing) &nbsp;&nbsp;
 
 
 Reading
