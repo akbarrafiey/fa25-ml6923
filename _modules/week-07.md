@@ -4,7 +4,7 @@ title: Week 7
 
 Oct 17
 : **LEC 07**{: .label .label-gray } Finishing SGD, Learning Theory
-  : [PDF](lectures/07-learning-theory-pac/Lec.pdf) &nbsp;&nbsp;
+  : [PDF](lectures/07-learning-theory-pac/Lec07.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
 {% comment %}
