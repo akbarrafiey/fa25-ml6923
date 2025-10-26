@@ -7,13 +7,6 @@ Oct 17
   : [PDF](lectures/07-learning-theory-pac/Lec07.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/07-learning-theory-pac/Lec07-marked.pdf)
 
-{% comment %}
-Oct 18
-: **Lab 04 Release**{: .label .label-yellow } 
-  : [Link](https://drive.google.com/file/d/1m7IUZ8J3BhuwZ45dCK_1bKOPI8hinwdo/view?usp=sharing) &nbsp;&nbsp;
-  : **Due: March 23, 11:59pm**{: .label .label-yellow }
-{% endcomment %}
-
 Reading
 : PAC Learning
   : [Note](https://www.cs.cornell.edu/courses/cs6781/2020sp/lectures/03-pac1.pdf) from Nika Haghtalab
