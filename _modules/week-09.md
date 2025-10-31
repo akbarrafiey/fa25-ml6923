@@ -20,7 +20,7 @@ Oct 31
 
 Oct 31
 : **Lab 05 Release**{: .label .label-yellow } 
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1EvyPzHoFeMbHdkFkoOXBua802wVTgXfC/view?usp=sharing) &nbsp;&nbsp;
   : **Due: Nov 12, 11:59pm**{: .label .label-yellow }
 
 
