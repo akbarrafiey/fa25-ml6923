@@ -52,9 +52,10 @@ seo:
 {{  site.modules[5]  }}
 {{  site.modules[6]  }}
 {{  site.modules[7]  }}
+{{  site.modules[8]  }}
+
 
 {% comment %}
-{{  site.modules[8]  }}
 {{  site.modules[9]  }}
 {{  site.modules[10]  }}
 {{  site.modules[11]  }}

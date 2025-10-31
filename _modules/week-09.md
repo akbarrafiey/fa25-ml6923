@@ -2,25 +2,28 @@
 title: Week 9
 ---
 
-Mar 21
-: **LEC 09**{: .label .label-gray } Kernel Methods, Support Vector Machine
-  : [PDF](lectures/09-kernel-methods-svm/Lec09.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/09-kernel-methods-svm/Lec09-marked.pdf)
+Oct 31
+: **LEC 09**{: .label .label-gray } Neural Networks
+  : [PDF](lectures/10-nn-backpropagation/Lec10.pdf) &nbsp;&nbsp;
+  : [Marked-PDF](lectures/10-nn-backpropagation/Lec10-marked.pdf)
 
+{% comment %}
 : **Demo 06**{: .label .label-green } SVM for MNIST Digit Recognition
   : [Link](https://drive.google.com/file/d/1cbP073THGNKzKws923nJ6GCXkMwuEVfa/view?usp=sharing) &nbsp;&nbsp;
 
-Mar 22
-: **Lab 05 Release**{: .label .label-yellow } 
-  : [Link](https://drive.google.com/file/d/1-GJIfY447n9vfq11--4pwAPVb2FtAKnY/view?usp=sharing) &nbsp;&nbsp;
-  : **Due: April 09, 11:59pm**{: .label .label-yellow }
 
-: **HW 04 posted**{: .label .label-red }
-  : [PDF](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
-  : [Solution](#) &nbsp;&nbsp;
-  : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
-: **Due: April 16, 11:59pm**{: .label .label-red }
+: **Demo 07**{: .label .label-green } Keras NN on synthetic data
+  : [Link](https://drive.google.com/file/d/1xPY-8afSTnX47WRB_2lOkjFlm9MhEaTK/view?usp=sharing) &nbsp;&nbsp;
+: **Demo 08**{: .label .label-green } Keras NN on MNIST data
+  : [Link](https://drive.google.com/file/d/1BouwV06u7yQZh7irJRlbuMKHieY6XZpv/view?usp=sharing) &nbsp;&nbsp;
+{% endcomment %}
+
+Oct 31
+: **Lab 05 Release**{: .label .label-yellow } 
+  : [Link]() &nbsp;&nbsp;
+  : **Due: Nov 12, 11:59pm**{: .label .label-yellow }
+
 
 Reading
-: SVM's additional reading
-  : Chapter 9 in An Introduction to Statistical Learning. 
+: Reading
+  : [Tensorflow playground](https://playground.tensorflow.org)
