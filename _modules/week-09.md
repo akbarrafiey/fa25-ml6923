@@ -10,13 +10,13 @@ Oct 31
 {% comment %}
 : **Demo 06**{: .label .label-green } SVM for MNIST Digit Recognition
   : [Link](https://drive.google.com/file/d/1cbP073THGNKzKws923nJ6GCXkMwuEVfa/view?usp=sharing) &nbsp;&nbsp;
-
+{% endcomment %}
 
 : **Demo 07**{: .label .label-green } Keras NN on synthetic data
   : [Link](https://drive.google.com/file/d/1xPY-8afSTnX47WRB_2lOkjFlm9MhEaTK/view?usp=sharing) &nbsp;&nbsp;
 : **Demo 08**{: .label .label-green } Keras NN on MNIST data
   : [Link](https://drive.google.com/file/d/1BouwV06u7yQZh7irJRlbuMKHieY6XZpv/view?usp=sharing) &nbsp;&nbsp;
-{% endcomment %}
+
 
 Oct 31
 : **Lab 05 Release**{: .label .label-yellow } 
