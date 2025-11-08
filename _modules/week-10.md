@@ -10,6 +10,13 @@ Nov 7
 
 : **Demo 09**{: .label .label-green } CNN using Keras
   : [Link](https://drive.google.com/file/d/18dzGlHEvY6P2KZIZ1refml_yXlVPM3B1/view?usp=sharing) &nbsp;&nbsp;
+
+Nov 08
+: **HW 04 posted**{: .label .label-red }
+  : [PDF](homeworks/HW04/HW04.pdf) &nbsp;&nbsp;
+  : [Solution](#) &nbsp;&nbsp;
+  : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
+: **Due: Nov 21, 11:59pm**{: .label .label-red }
   {% comment %}
 
 : **Demo 10**{: .label .label-green } Train a CNN for CIFAR-10
