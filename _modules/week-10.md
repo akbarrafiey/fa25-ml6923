@@ -3,7 +3,7 @@ title: Week 10
 ---
 
 Nov 7
-: **LEC 11**{: .label .label-gray } Convolution Neural Networks
+: **LEC 10**{: .label .label-gray } Convolution Neural Networks
   : [PDF](lectures/11-CNN/Lec11.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/11-CNN/Lec11-marked.pdf)
 
