@@ -8,16 +8,18 @@ Nov 14
   : [PDF](lectures/11-gnn/Lec11.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
-{% comment %}
-: **Demo 07**{: .label .label-green } Keras NN on synthetic data
-  : [Link](https://drive.google.com/file/d/1xPY-8afSTnX47WRB_2lOkjFlm9MhEaTK/view?usp=sharing) &nbsp;&nbsp;
-  
 : **Demo 08**{: .label .label-green } Keras NN on MNIST data
-  : [Link](https://drive.google.com/file/d/1BouwV06u7yQZh7irJRlbuMKHieY6XZpv/view?usp=sharing) &nbsp;&nbsp;
-{% endcomment %}
+  : [Link](https://drive.google.com/file/d/1VocpE5_Hf1gtnioQWTns8MsHfhA0EU-J/view?usp=sharing) &nbsp;&nbsp;
+
 
 Nov 14
 : Reading
   : [Gentle intro to GNN](https://distill.pub/2021/gnn-intro/)
 : &nbsp;&nbsp;
   : [Blog post](https://mbernste.github.io/posts/gcn/)
+
+
+Nov 16
+: **Lab 06 Release**{: .label .label-yellow } GNNs
+  : [Link](https://drive.google.com/file/d/1XuCrSpm1EzbahioJjE9oKms-CIGp4Vpn/view?usp=sharing) &nbsp;&nbsp;
+  : **Due: Dec 03, 11:59pm**{: .label .label-yellow }
