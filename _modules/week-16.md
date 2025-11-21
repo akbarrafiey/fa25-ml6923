@@ -2,12 +2,12 @@
 title: Finals Week
 ---
 
-May 09
+Dec 19
 : **Final Exam**{: .label .label-purple } 
-  : [Sample](Sample-Exam/final_sample_SP25.pdf) &nbsp;&nbsp;
-  : [Info](Sample-Exam/final-info-SP25.pdf)
+  : [Sample]() &nbsp;&nbsp;
+  : [Info]()
 
 
-: **Location:**  &nbsp; 2 MetroTech Center Room 817 <br> 
+: **Location:**  &nbsp; Jacobs Hall, 6 Metrotech Room 674 <br> 
 **Time:** &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 11:00AM - 1:30PM
   

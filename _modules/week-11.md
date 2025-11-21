@@ -8,8 +8,14 @@ Nov 14
   : [PDF](lectures/11-gnn/Lec11.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
-: **Demo 08**{: .label .label-green } Keras NN on MNIST data
-  : [Link](https://drive.google.com/file/d/1VocpE5_Hf1gtnioQWTns8MsHfhA0EU-J/view?usp=sharing) &nbsp;&nbsp;
+
+: **Demo 10**{: .label .label-green } Train a CNN for CIFAR-10
+  : [Link](https://drive.google.com/file/d/1tXkiwENxcgZMzB-l-okK1bCcMm3KOVFD/view?usp=sharing) &nbsp;&nbsp;
+  To make sure Colab is using a GPU, click on the Runtime tab and then Change Runtime Environment. Select GPU under hardware acceleration.
+
+: **Demo 11**{: .label .label-green } Demo on adversarial examples
+  : [Link](https://drive.google.com/file/d/1P1GXID0mYXsA9LbPmpaBcd2kZVM7p5sR/view?usp=sharing) &nbsp;&nbsp;
+
 
 
 Nov 14
