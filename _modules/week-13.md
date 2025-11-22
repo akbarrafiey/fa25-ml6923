@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Nov 26
-: **LEC 13**{: .label .label-gray } Finishing PCA, Image Generation
+: **LEC 13**{: .label .label-gray } PCA and Semantic Embedding, Image Generation
   : [PDF]() &nbsp;&nbsp;
   : [Marked-PDF]()
 

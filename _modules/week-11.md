@@ -6,7 +6,7 @@ title: Week 11
 Nov 14
 : **LEC 11**{: .label .label-gray } Traning DNN, Graph Neural Networks 
   : [PDF](lectures/11-gnn/Lec11.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/11-gnn/Lec11-marked.pdf)
 
 
 : **Demo 10**{: .label .label-green } Train a CNN for CIFAR-10
