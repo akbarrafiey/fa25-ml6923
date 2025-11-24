@@ -2,6 +2,14 @@
 title: Week 13
 ---
 
+Nov 24
+: **HW 05 posted**{: .label .label-red }
+  : [PDF](homeworks/HW05/HW05.pdf) &nbsp;&nbsp;
+  : [Solution](#) &nbsp;&nbsp;
+  : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
+: **Due: Dec 10, 11:59pm**{: .label .label-red }
+  : [UScities.txt dataset](homeworks/HW05/UScities.txt)
+
 Nov 26
 : **LEC 13**{: .label .label-gray } PCA and Semantic Embedding, Image Generation
   : [PDF]() &nbsp;&nbsp;
