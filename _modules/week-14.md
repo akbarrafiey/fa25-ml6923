@@ -3,8 +3,8 @@ title: Week 14
 ---
 
 Dec 05
-: **LEC 14**{: .label .label-gray } 
-  : [PDF]() &nbsp;&nbsp;
+: **LEC 14**{: .label .label-gray } Diffusion and Transformers
+  : [PDF](lectures/14-diffusion/Lec14.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
 {% comment %}
