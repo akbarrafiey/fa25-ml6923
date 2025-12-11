@@ -13,7 +13,7 @@ Nov 24
 Nov 26
 : **LEC 13**{: .label .label-gray } PCA and Semantic Embedding, Image Generation
   : [PDF](lectures/13-pca-embeding/Lec13.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/13-pca-embeding/Lec13-marked.pdf)
 
 Nov 27
 : **Thanksgiving**{: .label .label-green} 
